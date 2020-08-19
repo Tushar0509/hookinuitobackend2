@@ -42,7 +42,7 @@ class InstagramCollectionViewCell: UICollectionViewCell,UICollectionViewDelegate
         super.init(frame: frame)
         instagramCollectionView.backgroundColor = .systemOrange
         setupLayout()
-        print("code goes brrrr")
+        print("Instagram Collection view setup")
         
     }
     
